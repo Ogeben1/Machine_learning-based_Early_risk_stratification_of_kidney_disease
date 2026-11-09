@@ -1,6 +1,6 @@
-#Machine_Learning-based_Early_risk_stratification_of_kidney_disease
+# Machine_Learning-based_Early_risk_stratification_of_kidney_disease
 
-###Project Overview
+### Project Overview
 
 Chronic kidney disease (CKD) is said to be one of the underdiagnosed ailments globally and can progress without obvious symptoms, so identifying adults at elevated risk before advanced disease may help prioritize follow-up testing and clinical review. Recognized risk factors include Diabetes, high blood pressure, heart disease, and family history. Kidney assessment commonly uses blood-based eGFR serum creatinine and urine albumin tests. This project will develop and evaluate a machine-learning model  that estimates an adult patient’s risk of kidney disease using routinely available information. 
 
