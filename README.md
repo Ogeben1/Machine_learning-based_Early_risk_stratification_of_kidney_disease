@@ -6,9 +6,9 @@ Chronic kidney disease (CKD) is said to be one of the underdiagnosed ailments gl
 
 ### Tools and Technologies used:
 Python 3 for data processing, modeling, and reproducible analysis.
-•pandas and NumPy for data cleaning, date handling, feature engineering, and numerical operations.
+Pandas and NumPy for data cleaning, date handling, feature engineering, and numerical operations.
 Matplotlib and Seaborn for exploratory plots and evaluation figures.
-scikit-learn for preprocessing pipelines, train/validation design, logistic regression, random forest or gradient-boosted baselines, and evaluation. scikit-learn permutation importance for model interpretation, used as descriptive tools rather than proof of causal effects.
+Scikit-learn for preprocessing pipelines, train/validation design, logistic regression, random forest or gradient-boosted baselines, and evaluation. scikit-learn permutation importance for model interpretation, used as descriptive tools rather than proof of causal effects.
 JupyterLab for analysis and documentation; Git for version control.
 ### Project Objectives
 
